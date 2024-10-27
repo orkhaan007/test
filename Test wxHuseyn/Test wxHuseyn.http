@@ -1,0 +1,6 @@
+@Test_wxHuseyn_HostAddress = http://localhost:5067
+
+GET {{Test_wxHuseyn_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
