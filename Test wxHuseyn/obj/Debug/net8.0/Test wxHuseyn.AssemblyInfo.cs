@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Test wxHuseyn")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+68e81f90f44a69ad328556e2a41261a9a8abf6ed")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ab057b3eb818a8c1f3510d6da73852834b90924")]
 [assembly: System.Reflection.AssemblyProductAttribute("Test wxHuseyn")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Test wxHuseyn")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
